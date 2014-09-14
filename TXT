@@ -1,0 +1,57 @@
+DATABASE-CAIT-1
+===============
+
+secret octo hipster
+
+/* Bag of words*/ Keywords
+
+/* split convo into 3 parts. 
+Social ability, main body( speaking a specicific topic, that will go with it), Closing (polite remarks for the openings)
+
+/*greetings*/
+Q: how are you? / Hi/ Hello / Yo/ How are you doing?/ What's up/ 
+A: Hi/ i'm good/ Hello/ 
+
+if, /how are you doing? then, / i'm doing fine thank you!
+
+/*Bag 1*/
+
+
+
+
+
+
+
+
+/*backups*/
+1) I have no idea this point in time.
+2) Is this a question ?
+3) I..it's not like i dont understand you or anything.. >.<
+4) U wot M8.
+5) Come again?
+6) Please... i dont know what you mean.
+7) Are you making fun of me?
+8) Can you explain what "unidentified" means.
+9) Senapi... This is too complicated.
+10) how much wood would a wood chuck chuck if a wood chuck would chuck wood.
+11) M8 i legit don't know a word your saying.
+12) Hahaha.
+13) Seriously?
+14) Oh sorry, i don't speak English.
+15) Do you not think so far, ahead?
+16) My database does not include stuff like this, but i appreciate your effort to teach me. 
+17) My database does not include stuff like this, but i appreciate your effort to teach me :p.
+18) OK.
+19) OK.
+20) Lol.
+21) Did you know that you can get an orgasm when you're dead.
+22) 
+23)
+24)
+
+
+
+/*insult backups*/
+1) Why are you so mean?
+2) You are so mean 
+3) Now your just not making sense
